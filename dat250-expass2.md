@@ -3,6 +3,8 @@
 Repository for the code used in Experiment 1 & 2: https://github.com/asi96/dat250-jpa-example
 
 ## Experiment 1: Application using JPA ##
+Code for the following section can be found in the `no.hvl.dat250.jpa.basicexample` and `no.hvl.dat250.jpa.model` package within the linked repository ontop.
+
 Down below are screenshots of the generated tables using Derby's own ij tool
 
 **Verification that the added tables has been succecssfully added to the database (PERSON, PERSON_JOB, JOB, FAMILY):**
