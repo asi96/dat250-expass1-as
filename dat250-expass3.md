@@ -24,7 +24,14 @@ The installation of MongoDB went mostly without any issues. I started downloadin
 ### Bulk Write Operations ###
 ![image](https://user-images.githubusercontent.com/31306712/134194273-9e191c8c-8568-4a06-b8b1-beefb72703a7.png)
 
+### Aggregation Examples ###
+![image](https://user-images.githubusercontent.com/31306712/134213048-9a31c463-a1d6-4c1c-b706-154c12cf0953.png)
+
+### Additional Operation ###
+![image](https://user-images.githubusercontent.com/31306712/134217811-8f0d4bc3-6b4e-4637-b138-6700c5a8cd53.png)
 
 ## Reason about why my implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained ##
+The operation is useful incase you would want to know how much each customer shops for on average. The collection obtained maps the cust_id attribute to the price attribute which is divided on the total amounts of orders the customer has.
 
 ## Any pending issues with this assignment which I did not manage to solve ##
+There are no pending issues that I did not manage to solve.
