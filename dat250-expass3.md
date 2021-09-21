@@ -2,6 +2,8 @@
 
 ## Technical problems I encountered while installing MongoDB ##
 
+The installation of MongoDB went mostly without any issues. I started downloading the latest version (5.0.1) then realized that I had to get the 4.4 version instead, therefore I got an extra round of uninstall/installing the program.
+
 ## Screenshots ##
 
 ### Validation of the installation package (Windows) (4.4.9) ###
